@@ -16,7 +16,7 @@
     color: var(--header-bg);
 }
 
-.form-container{
+.form-container {
     background-color: var(--card-bg);
     padding: 2rem;
     border-radius: 8px;
@@ -25,11 +25,11 @@
     margin: 0 auto;
 }
 
-.form-group{
+.form-group {
     margin-bottom: 1.25rem;
 }
 
-.form-group label{
+.form-group label {
     display: block;
     margin-bottom: 0.5rem;
     color: var(--header-bg);
@@ -38,7 +38,7 @@
 
 .form-group input,
 .form-group select,
-.form-group textarea{
+.form-group textarea {
     width: 100%;
     padding: 0.5rem;
     border: 1px solid var(--border-color);
@@ -48,14 +48,14 @@
     box-sizing: border-box;
 }
 
-.form-actions{
+.form-actions {
     display: flex;
     justify-content: flex-end;
     gap: 1rem;
     margin-top: 1.5rem;
 }
 
-.form-actions .btn{
+.form-actions .btn {
     min-width: 120px;
     text-align: center;
 }
